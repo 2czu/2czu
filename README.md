@@ -8,6 +8,8 @@ I enjoy understanding how things work and creating new things.
 
 Currently planning a voxel game engine as a personal project.
 
+(most of my commits were under a different git user)
+
 ## Experience
 - **Programming:** C / C++, C#, ASM, Python, TypeScript, graphics programming, engine optimization
 - **Creation & Exploration:** 3D modeling (Cinema 4D), digital art (Adobe Illustrator), video editing (After Effects)

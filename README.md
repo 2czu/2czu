@@ -4,7 +4,7 @@
 
 Focused on **low-level** programming, **graphics**, and **engine** development. I tinker with optimization, 3D stuff, and making things run fast.
 
-I enjoy **understanding how** things work and **creating** new things.
+I also enjoy **understanding how** things work and **creating** new things.
 
 Currently planning a **voxel game engine** as a personal project.
 

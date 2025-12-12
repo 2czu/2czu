@@ -10,5 +10,5 @@ Currently planning a voxel game engine as a personal project.
 
 ## Experience
 - **Programming:** C / C++, C#, ASM, Python, TypeScript, graphics programming, engine optimization
-- **Creation & Exploration:** 3D modeling (Cinema 4D), digital art 
+- **Creation & Exploration:** 3D modeling (Cinema 4D), digital art (Adobe Illustrator), video editing (After Effects)
 - **Curiosity Projects:** Machine learning experiments, pentesting, experimenting with systems 
